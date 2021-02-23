@@ -1,0 +1,25 @@
+{
+  "name": "秦双",
+  "short_name": "",
+  "start_url": "guide.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "秦双的博客",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./photo.jpg",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    },
+    {
+      "platform": "play",
+      "url": ""
+    }
+  ]
+}
